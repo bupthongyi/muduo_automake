@@ -1,0 +1,5 @@
+## @start 1
+#! /bin/sh
+
+autoreconf -fvi
+## @end 1
